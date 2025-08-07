@@ -1,4 +1,4 @@
-package GestionGroupe;
+package gestionGroupe;
 
 import java.util.List;
 
